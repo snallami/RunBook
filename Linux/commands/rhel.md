@@ -10,5 +10,5 @@ lsb_release -i -r
  uname -i
  ```
 
- x86_64 denotes 64 bit
+ x86_64 denotes 64 bit<br>
  i386 denotes 32 bit
