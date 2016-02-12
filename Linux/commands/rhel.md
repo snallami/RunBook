@@ -1,12 +1,14 @@
-## Know your redhat version
+ ## Know your redhat version
 
-```lsb_release -i -r
 ```
+lsb_release -i -r
+ ```
 
-## Find 64 bit or 32 bit
+ ## Find 64 bit or 32 bit
 
-```uname -i
-```
+ ```
+ uname -i
+ ```
 
-x86_64 denotes 64 bit
-i386 denotes 32 bit
+ x86_64 denotes 64 bit
+ i386 denotes 32 bit
