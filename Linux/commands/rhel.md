@@ -1,10 +1,10 @@
- # Know your redhat version
+# Redhat version?
 
 ```
 lsb_release -i -r
  ```
 
- ## Find 64 bit or 32 bit
+## 64 bit or 32 bit?
 
  ```
  uname -i
