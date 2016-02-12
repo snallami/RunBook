@@ -1,4 +1,4 @@
- ## Know your redhat version
+ # Know your redhat version
 
 ```
 lsb_release -i -r
